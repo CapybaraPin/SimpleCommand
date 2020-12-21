@@ -1,0 +1,11 @@
+name: CommandsTool
+version: 0.0.1
+main: TeraTeam\CommandsTool\Main
+api: 3.17.0
+
+commands:
+  discord:
+    description: "Vous donne le lien du serveur discord"
+    usage: "/discord"
+
+
